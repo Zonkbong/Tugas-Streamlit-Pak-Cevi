@@ -1,2 +1,2 @@
 # LineChart-Streamlit
-Sreate a Line Chart Using Streamlit
+Create a Line Chart Using Streamlit
