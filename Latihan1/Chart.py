@@ -11,7 +11,7 @@ st.header("Line Chart Penjualan Bunga")
 st.subheader("Januari")
 jan_bunga = pd.DataFrame({
     "Minggu" : [1, 2, 3, 4],
-    "Jual" : [12, 15, 8, 3]
+    "Jual" : [12, 15, 8, 10]
 })
 
 st.line_chart(jan_bunga)
