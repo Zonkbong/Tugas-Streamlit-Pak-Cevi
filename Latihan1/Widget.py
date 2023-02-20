@@ -3,6 +3,9 @@ import pandas as pd
 import numpy as np
 
 st.header("Latihan 1 - Widget")
+
+st.write("#")
+st.subheader("Download Image")
 st.write("##")
 
 with open("Gambar/8d5ed67105bfdf4b1116e2486b504847.jpg", "rb") as file:

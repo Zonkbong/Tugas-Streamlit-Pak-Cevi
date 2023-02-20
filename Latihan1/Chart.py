@@ -25,7 +25,7 @@ st.subheader("Februari")
 
 feb_bunga = pd.DataFrame(
     np.random.randn(28, 4),
-    columns=["Minggu 1", "Minggu 2", "Minggu 3","Minggu 4"]
+    columns=["Minggu 1", "Minggu 2", "Minggu 3", "Minggu 4"]
 )
 
 st.bar_chart(feb_bunga)
